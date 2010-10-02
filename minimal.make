@@ -17,6 +17,8 @@ projects[diff][subdir] = contrib
 projects[pathauto][subdir] = contrib
 ; projects[poormanscron][subdir] = contrib
 
+projects[skinr][subdir] = contrib
+
 projects[token][subdir] = contrib
 
 ; Themes

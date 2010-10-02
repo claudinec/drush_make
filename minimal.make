@@ -14,7 +14,7 @@ projects[backup_migrate][subdir] = contrib
 projects[devel][subdir] = contrib
 projects[diff][subdir] = contrib
 
-projects[markdown][subdir] = contrib
-projects[mollom][subdir] = contrib
+; projects[markdown][subdir] = contrib
+; projects[mollom][subdir] = contrib
 
 projects[pathauto][subdir] = contrib

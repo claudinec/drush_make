@@ -11,20 +11,20 @@ projects[admin_menu][subdir] = contrib
 
 projects[backup_migrate][subdir] = contrib
 
+projects[cck][subdir] = contrib
+
+projects[date][subdir] = contrib
 projects[devel][subdir] = contrib
 projects[diff][subdir] = contrib
 
-projects[journal][subdir] = contrib
-
-projects[markdown][subdir] = contrib
-projects[mollom][subdir] = contrib
-
 projects[pathauto][subdir] = contrib
-; projects[poormanscron][subdir] = contrib
+projects[poormanscron][subdir] = contrib
 
 projects[skinr][subdir] = contrib
 
 projects[token][subdir] = contrib
+
+projects[views][subdir] = contrib
 
 ; Themes
 

@@ -8,6 +8,7 @@ projects[] = drupal
 ; Modules
 
 projects[admin_menu][subdir] = contrib
+projects[auto_nodetitle][subdir] = contrib
 
 projects[backup_migrate][subdir] = contrib
 projects[biblio][subdir] = contrib

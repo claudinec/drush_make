@@ -13,6 +13,7 @@ projects[auto_nodetitle][subdir] = contrib
 projects[backup_migrate][subdir] = contrib
 projects[biblio][subdir] = contrib
 
+projects[conditional_fields][subdir] = contrib
 projects[context][subdir] = contrib
 
 projects[date][subdir] = contrib
@@ -31,6 +32,8 @@ projects[module_filter][subdir] = contrib
 
 projects[pathauto][subdir] = contrib
 projects[pathologic][subdir] = contrib
+
+projects[rules][subdir] = contrib
 
 projects[switchtheme][subdir] = contrib
 

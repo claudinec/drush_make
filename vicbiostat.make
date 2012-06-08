@@ -15,10 +15,12 @@ projects[biblio][subdir] = contrib
 
 projects[conditional_fields][subdir] = contrib
 projects[context][subdir] = contrib
+projects[ctools][subdir] = contrib
 
 projects[date][subdir] = contrib
 projects[devel][subdir] = contrib
 projects[diff][subdir] = contrib
+projects[ds][subdir] = contrib
 
 projects[features][subdir] = contrib
 projects[fpa][subdir] = contrib
@@ -30,14 +32,20 @@ projects[markdown][subdir] = contrib
 projects[masquerade][subdir] = contrib
 projects[module_filter][subdir] = contrib
 
+projects[nodequeue][subdir] = contrib
+
+projects[panels][subdir] = contrib
 projects[pathauto][subdir] = contrib
 projects[pathologic][subdir] = contrib
 
 projects[rules][subdir] = contrib
 
+projects[sassy][subdir] = contrib
 projects[switchtheme][subdir] = contrib
 
 projects[token][subdir] = contrib
+
+projects[views_bulk_operations][subdir] = contrib
 
 projects[wysiwyg][subdir] = contrib
 

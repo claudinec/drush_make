@@ -13,6 +13,9 @@ projects[admin_menu][version] = 3.0-rc3
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.3
 
+projects[coder][subdir] = contrib
+projects[coder][version] = 1.0
+
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.2
 

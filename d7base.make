@@ -24,9 +24,6 @@ projects[diff][version] = 2.0
 
 projects[fpa][subdir] = contrib
 
-projects[fusion_accelerator][subdir] = contrib
-projects[fusion_accelerator][version] = 2.0-beta1
-
 projects[markdown][subdir] = contrib
 
 projects[masquerade][subdir] = contrib
@@ -43,8 +40,3 @@ projects[switchtheme][version] = 1.0
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.1
-
-; Themes
-
-projects[fusion][subdir] = contrib
-projects[fusion][version] = 2.0-beta2

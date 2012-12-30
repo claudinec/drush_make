@@ -22,6 +22,12 @@ projects[devel][version] = 1.2
 projects[diff][subdir] = contrib
 projects[diff][version] = 2.0
 
+projects[features][subdir] = contrib
+
+projects[libraries][subdir] = contrib
+
+projects[profiler][subdir] = contrib
+
 projects[switchtheme][subdir] = contrib
 projects[switchtheme][version] = 1.0
 
